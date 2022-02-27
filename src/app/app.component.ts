@@ -8,7 +8,7 @@ import { Meta, Title } from "@angular/platform-browser";
 })
 export class AppComponent implements OnInit {
 
-  title: string = "Live Resume - Guilherme Borges Bastos";
+  title: string = "Live Resume - Daniel Fernandes Pinho";
 
   constructor(
     private titleService: Title,
@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
     this.titleService.setTitle(this.title);
 
     this.metaTagService.addTags([
-      { name: "keywords", content: "Web Developer, Java Developer, Full-stack Java Developer, DevOps Engineer, Android Developer, Guilherme Borges Bastos Live Resume, Guilherme Borges Bastos Resume, Guilherme Borges Bastos CV, Curriculum Guilherme Borges Bastos, GBASTOS Resumo, gbastos live resume" },
+      { name: "keywords", content: "Python Developer, Back-end Developer, Tech Teacher, Data Scientist, Computer Scientist, Daniel Fernandes Live Resume, Daniel Fernandes CV, Curriculum Daniel Fernandes, Daniel Fernandes Resumo"},
       { name: "robots", content: "index, follow" },
       { name: "author", content: "Guilherme Borges Bastos" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -29,7 +29,7 @@ export class AppComponent implements OnInit {
     ]);
 
     this.metaTagService.updateTag(
-      { name: "description", content: "Hello, I'm a Full-stack Web Developer with 10+ years of experience designing web and mobile projects. Find out more in my live-resume!" }
+      { name: "description", content: "Hello, I'm a back-end developer, with experience in Data Analysis. I'm passionete about Data, Science and I'd love to teach with you all my knowledge. Welcome to my World! Find out more in my live-resume!" }
     );
   }
 }
