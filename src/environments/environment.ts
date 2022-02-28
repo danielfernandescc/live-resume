@@ -6,12 +6,12 @@ export const environment = {
   production: false,
   // replace the data below with your personal data
   personal: {
-    caricature: "gbastos-illustration@2x-mask.png",
-    name: "Guilherme Borges Bastos",
-    birth: "1993-06-29",
-    email: "guilhermeborgesbastos@gmail.com",
-    phone: "+31 68 733 3020",
-    location: "Rotterdam, South Holland, Netherlands"
+    caricature: "DanielCaricature@2png",
+    name: "Daniel Fernandes Pinho",
+    birth: "1997-08-02",
+    email: "danielnrk3@gmail.com",
+    phone: "+31 993184431",
+    location: "Contagem, Minas Gerais, Brazil"
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
