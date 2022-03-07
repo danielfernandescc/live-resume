@@ -2,11 +2,11 @@
     "internationalizations": [
         {
             "language": "pt",
-            "description":""
+            "description":"Sou desenvolvedor back-end, estudante de ciência de dados e estudante de Ciiência da computação. Tudo começou quando eu tinha cinco anos, quando aprendi sozinho a usar um computador. Sempre fui muito curioso e consegui resolver problemas do computador e outros dispositivos digitais. Na adolescência descobri o mundo da computação e da programação. Desde então já sabia qual caminho deveria seguir na minha vida. <br><br>Ao ingressar na Federal Universidade de Viçosa, descobri minha <i>vocação analítica</i>, com foco na área de desenvolvimento e Ciência de Dados. Participei de uma maratona de programação na qual fiquei em segundo lugar. Conquistei o segundo lugar no concurso para o melhor projeto de desenvolvimento em sistemas embarcados, quando tive a ideia de desenvolver um dispositivo de higienização das mãos com o intuito de diminuir o número de infecções hospitalares, consequentemente o número de mortes, contribuindo para a saúde das pessoas. Tenho o cosutme de ter <i>ideias brilhantes</i> para grandes problemas. <br><br> No meu primeiro estágio profissional, trabalhei como analista de dados em um hospital de referência na minha cidade de Belo Horizonte. Estive presente em diversos projetos para atendimento hospitalar, com o intuito de melhorar a vida das pessoas através de insights de dados, meu maior projeto até hoje. Sou competente e apaixonado por tudo que faço. Sou uma pessoa determinada, minuciosa, dedicada, calma, persistente, ativa, comunicativa e otimista e estou sempre em busca de aprender mais. <br><br> Acredito que os dados podem transformar o mundo por meio da cooperação científico-tecnológica, desenvolvendo soluções para contribuir com a saúde na vida das pessoas e daqueles que mais precisam. Também escrevo artigos sobre ciência de dados. Venha descobrir mais do meu mundo!"
         },
         {
             "language": "en",
-            "description": "My path as a <i>programmer</i> has started at nineish years old, when I've fallen in love with <i>Logo</i>, an educational programming language used to captivate kids in the wonderful lands of <i>Programming</i>. I used to spend hours in a row trying to build figures and animations, using math and geometry. At that time, I just did not know the exciting challenges that were yet to come.<br><br>A few years later, I got an internship as a <i>Webmaster</i>, since then, I have never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br><br>I had an entrepreneurship experience, when a friend of mine presented me <i>Magento</i>, an extremely popular e-commerce framework. After doing several courses and a lot of practice, I got contracts with agencies from São Paulo and Rio de Janeiro, Brazil. This entrepreneurship experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br><br>Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
+            "description": "I'm a back-end developer, Data Science student and Computer Science student. Everything started when I was five years old I learned, on my own, how to use a computer. I was always very curious, and I was able to fix problems of the computer and other digital devices. As a teenager I discovered the world of Computer Cience and programming. Since then I knew which path I should take in my life. <br><br>Upon entering the Federal University of Viçosa, I discovered my <i>analytical vocation</i>, focused on the area of ​​development and data science. I participated in a programming marathon in which I came in second. I won second place in the contest for the best development project in embedded systems, when I had the idea of ​​developing a hand hygiene device in order to reduce the numbers of nosocomial infections, as a result the number of deaths, contribuiting or people's health. I have a habit of coming up with <i>brilliant ideas</i> for big problems. <br><br> In my first professional internship, I worked as a data analyst at a reference hospital in my city of Belo Horizonte. I was present in several projects for hospital care, in order to improve people's lives through data insights, my biggest project to date. I am skilled and passionate about everything I do. I am determined, thorough, dedicated, calm, persistent, active, communicative and optimistic person and I am always looking to learn more. <br><br> I believe that data can transform the world through scientific-technological cooperation, developing solutions to contribute to health in the lives of people and those who need it most. I also write articles on data science. Come and discover more of my world!"
         }
     ],
     "medias": [        
@@ -21,22 +21,26 @@
             "http": "https://github.com/danielfernandesp"
         }
     ],
-    "hobbies": [        
+    "hobbies": [
         {
-            "icon": "biking",
-            "title": "Cycling"
+            "icon": "book",
+            "title": "Read"
         },
         {
-            "icon": "dumbbell",
-            "title": "Gym"
+            "icon": "swimmer",
+            "title": "Swimming"
+        }, 
+        {
+            "icon": "running",
+            "title": "Run"
+        },
+        {
+            "icon": "pen",
+            "title": "Writing"
         },
         {
             "icon": "suitcase-rolling",
             "title": "Travel"
-        },
-        {
-            "icon": "book",
-            "title": "Read"
         }
     ]
 }

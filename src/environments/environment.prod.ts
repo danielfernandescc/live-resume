@@ -6,7 +6,7 @@ export const environment = {
     name: "Daniel Fernandes Pinho",
     birth: "1997-08-02",
     email: "danielnrk3@gmail.com",
-    phone: "+31 993184431",
+    phone: "+31 99318 4431",
     location: "Contagem, Minas Gerais, Brazil"
   },
   // replace the dummy data below with the real firebase configs
