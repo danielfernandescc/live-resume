@@ -1,5 +1,5 @@
 export const environment = {
-  production: true,
+  production: false,
   // replace the data below with your personal data
   personal: {
     caricature: "DanielCaricature@2png",
