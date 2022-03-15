@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: true,
+  production: false,
   // replace the data below with your personal data
   personal: {
     caricature: "DanielCaricature@2png",
@@ -15,13 +15,13 @@ export const environment = {
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
-    apiKey: "AIzaSyAsTv4FruWKG1zKAGYDdLC2jlr689jUtcI",
-    authDomain: "danielfernandes.firebaseapp.com",
-    projectId: "danielfernandes",
-    storageBucket: "danielfernandes.appspot.com",
-    messagingSenderId: "181170945174",
-    appId: "1:181170945174:web:29695613b12bf8c19296b7",
-    measurementId: "G-2P8HNW5PY3"
+    apiKey: "AIzaSyBQF2QpdvW2BeSBWRj7lyqQHgBn79ud1r8",
+    authDomain: "danielfernandeswebsite.firebaseapp.com",
+    projectId: "danielfernandeswebsite",
+    storageBucket: "danielfernandeswebsite.appspot.com",
+    messagingSenderId: "315941422920",
+    appId: "1:315941422920:web:fbfe79d4ac6eebf4d2957d",
+    measurementId: "G-PGLC0K6TRS"
   }
 };
 
