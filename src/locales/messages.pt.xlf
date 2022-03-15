@@ -157,7 +157,7 @@
       </trans-unit>
       <trans-unit id="synopsis" datatype="html">
         <source>Under construction: I will bring you news and topics about the world of data development and Data Science, Machine Learning and Deep Learning soon.</source>
-        <target>Eu vou trazer novidades e assuntos sobre o mundo do desenvolvimento de dados e Ciência dos Dados, Machine Learning e Deep Learning em breve.</target>
+        <target>Em breve trarei e assuntos sobre o mundo do desenvolvimento de dados e Ciência dos Dados, Machine Learning e Deep Learning.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
           <context context-type="linenumber">19</context>

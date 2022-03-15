@@ -3,14 +3,14 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
+  production: true,
   // replace the data below with your personal data
   personal: {
     caricature: "DanielCaricature@2png",
     name: "Daniel Fernandes Pinho",
     birth: "1997-08-02",
-    email: "danielnrk3@gmail.com",
-    phone: "+31 99318 4431",
+    email: "danielfernandespinho1@gmail.com",
+    phone: "+55 31 99151 3183",
     location: "Contagem, Minas Gerais, Brazil"
   },
   // replace the dummy data below with the real firebase configs
