@@ -13,7 +13,7 @@
                 "city": "Florestal/Minas Gerais",
                 "country": "Brasil",
                 "role": "Analista de Software - Trainee",
-                "description": "A <b>SetApp</b> é uma Empresa Júnior do curso de Ciência da Computação da  Universidade Federal de Viçosa (UFV). Oferece consultoria para empresas e soluções em software, do mais simples ao  mais avançado. Foi criada pelos próprios estudantes, sendo imediatamente apoiada pelo Movimento Empresas Júniores da UFV. <br><br>Trabalhei como Analista de Software e <i> Tester </> auxiliando em ideias e ações para criação do  produto prateleira da empresa. Apoiei o grupo de Sistemas embarcados, aplicando conhecimentos acadêmicos, utilizando linguagens tais como C e modelagem UML."
+                "description": "A <b>SetApp</b> é uma Empresa Júnior do curso de Ciência da Computação da  Universidade Federal de Viçosa (UFV). Oferece consultoria para empresas e soluções em software, do mais simples ao  mais avançado. Foi criada pelos próprios estudantes, sendo imediatamente apoiada pelo Movimento Empresas Júniores da UFV. <br><br>Trabalhei como Analista de Software e <i>Tester</i> auxiliando em ideias e ações para criação do  produto prateleira da empresa. Apoiei o grupo de Sistemas embarcados, aplicando conhecimentos acadêmicos, utilizando linguagens tais como C e modelagem UML."
             },
             {
                 "language": "en",
@@ -127,7 +127,7 @@
                 "http": "https://www.youtube.com/c/HospitalMetropolitanoDrC%C3%A9liodeCastro"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/hmdcc.png"
+        "backgroundUrl": "../../assets/template/experience/hmdcc.jpg"
     },
     {
         "id": 4,
