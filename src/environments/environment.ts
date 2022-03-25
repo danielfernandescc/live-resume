@@ -11,7 +11,7 @@ export const environment = {
     birth: "1997-08-02",
     email: "danielfernandespinho1@gmail.com",
     phone: "+55 31 99151 3183",
-    location: "Contagem, Minas Gerais, Brazil"
+    location: "Florestal, Minas Gerais, Brazil"
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
