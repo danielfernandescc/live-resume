@@ -163,5 +163,39 @@
             }
         ],
         "backgroundUrl": "../../assets/template/experience/belo-horizonte.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "04-05-2022",
+        "companyName": "dti digital",
+        "website": "https://www.dtidigital.com.br/",
+        "logo": "../../assets/template/experience/logo/dti-logo.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Belo Horizonte/Minas Gerais",
+                "country": "Brasil",
+                "role": "Analista de Business Intelligence",
+                "description": "Fundada em 2009 na cidade de Belo Horizonte/MG, a dti é uma empresa de transformação digital e tecnologia de cultura ágil e design thinking. Possui aproxidamente 2000 funcionários e hoje é parte do grupo internacional WPP."},
+            {
+                "language": "en",
+                "city": "Belo Horizonte/Minas Gerais",
+                "country": "Brazil",
+                "role": "Business Intelligence Analyst",
+                "description": "Founded in 2009 in the city of Belo Horizonte/MG, dti is a digital transformation and technology company with an agile culture and design thinking. It has approximately 2000 employees and is now part of the international WPP group."           
+            }
+        ],
+        "technologies": [
+            "PowerBI", "SQL", "DevOps", "Azure", "Business Intelligence", "Agile Methodology", "Scrum"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn - dti digital",
+                "http": "https://www.linkedin.com/company/dtidigital/"
+            }
+        ],
+        "backgroundUrl": "../../assets/template/experience/dti-digital-office.jpg"
     }
 ]

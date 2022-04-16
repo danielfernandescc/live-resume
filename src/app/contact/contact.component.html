@@ -24,7 +24,7 @@
                     <p class="location" *ngIf="location"><fa-icon [icon]="faMapMarkerAlt" class="icon" title="City"></fa-icon><span itemprop="city">{{ location }}</span></p>
                 </div>
             </div>
-            <!-- customizing ! @danielfernandes 
+            <!-- customizing ! @danielfernandes -->
             <div class="bottom-container">
                 <form [formGroup]="contactForm" (ngSubmit)="onSubmit(contactNgForm)" #contactNgForm="ngForm" [ngClass]="{'loading': isLoading}">
                     <div class="form-group">
@@ -58,7 +58,6 @@
                     <input type="submit" i18n-value="contact@@send" value="Send">                
                 </form>
             </div>
-        -->
         </div>
         <div class="right-side"></div>
     </div>
